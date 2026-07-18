@@ -1,0 +1,9 @@
+../Core/Src/cp_analyzer.c:113:14:duty_to_amps	4
+../Core/Src/cp_analyzer.c:120:20:state_name	7
+../Core/Src/cp_analyzer.c:142:16:amplitude_decode_mv	7
+../Core/Src/cp_analyzer.c:180:18:next_state	23
+../Core/Src/cp_analyzer.c:241:13:decode	10
+../Core/Src/cp_analyzer.c:295:13:report	4
+../Core/Src/cp_analyzer.c:321:6:HAL_TIM_IC_CaptureCallback	5
+../Core/Src/cp_analyzer.c:342:6:CP_Init	1
+../Core/Src/cp_analyzer.c:362:6:CP_Task	2
